@@ -1,4 +1,10 @@
 ♟️ Chess-Verse
+
+<p align="center">
+  <img src="assets/logo.png" width="120" />
+</p>
+
+
 A Cross-Platform Chess.com-Style App Built with Flutter
 
 ChessVerse is a fully-featured, real-time multiplayer chess platform inspired by Chess.com, built using Flutter with a single codebase for Android, iOS, Windows, and macOS.
