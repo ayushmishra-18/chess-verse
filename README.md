@@ -1,4 +1,5 @@
-♟️ Chess-Verse
+♟️ Chess-Verse     --------🛑IN DEVELOPMENT‼️
+
 
 <p align="center">
   <img src="assets/logo.png" width="120" />
